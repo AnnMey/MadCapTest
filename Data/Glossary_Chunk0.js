@@ -1,0 +1,1 @@
+define({'Miasto':{d:'Historycznie ukształtowana jednostka osadnicza charakteryzująca się dużą intensywnością zabudowy, małą ilością terenów rolniczych, ludnością pracującą poza rolnictwem (w przemyśle lub w usługach) prowadzącą miejski styl życia.',l:''},'My Term':{d:'My definition',l:''}});
