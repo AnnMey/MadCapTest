@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A-Lokalizacja/Lokalizacja.htm'],s:['09'],p:[['09',11],['zamieszkiwali',14]]});
